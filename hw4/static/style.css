@@ -1,0 +1,22 @@
+body {
+    background-color: orange;
+    font-size: 100px;;
+}
+
+.specialList{
+    color: green;
+}
+
+.right {
+    position: absolute;
+    right: 100px;
+}
+
+.left{
+    position: absolute;
+    left: 200px;
+}
+
+li{
+    padding-bottom: 500px;
+}
