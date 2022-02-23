@@ -63,7 +63,7 @@ def problem8():
     print("Directory '% s' created" % directory)
 
 
-#print(problem1("String"))
+print(problem1("String"))
 #print(problem2(3,4))
 #print(problem3(["this", "is", "a", "test"]))
 #print(problem4([["this", "is", "a", "test"],["Jonathan", "is", "a", "test"],["Python", "is", "a", "test"]]))
